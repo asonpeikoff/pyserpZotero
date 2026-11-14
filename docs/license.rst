@@ -1,6 +1,6 @@
 License
 ============
-Copyright (c) 2022 Jason Miller
+Copyright (c) 2022 Ason Peikoff
 
 **Modified MIT License**
 

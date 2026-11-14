@@ -10,8 +10,8 @@ import sys
 sys.path.insert(0, os.path.abspath('../src/pyserpZotero'))
 
 project = 'pyserpZotero'
-copyright = '2024, Jason Miller'
-author = 'Jason Miller'
+copyright = '2024, Ason Peikoff'
+author = 'Ason Peikoff'
 release = '1.1.0'
 
 # -- General configuration ---------------------------------------------------

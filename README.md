@@ -12,7 +12,7 @@ Usage:
 | Resource     | URL                                    |
 | ------------ | -------------------------------------- |
 | Docs         | https://pyserpzotero.readthedocs.io    |
-| GitHub Repo  | https://github.com/hack-r/pyserpZotero |
+| GitHub Repo  | https://github.com/asonpeikoff/pyserpZotero |
 | PyPI Package | https://pypi.org/project/pyserpZotero/ |
 | SerpAPI      | https://serpAPI.com                    |
 | Zotero       | https://zotero.org                     |
@@ -169,7 +169,7 @@ It's an R programming practice for readability based on major style guides (not 
 
 ## Contributing
 
-Contributions and forks are welcome! Please see the [GitHub repository](https://github.com/hack-r/pyserpZotero) for contribution guidelines. 
+Contributions and forks are welcome! Please see the [GitHub repository](https://github.com/asonpeikoff/pyserpZotero) for contribution guidelines. 
 
 ## License
 
